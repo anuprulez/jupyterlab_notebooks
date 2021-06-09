@@ -1,2 +1,2 @@
-# jupyterlab_notebooks
+# Notebooks for Jupyterlab
 JupyterLab notebook
