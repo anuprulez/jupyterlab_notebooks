@@ -1,2 +1,2 @@
-# Notebooks for Jupyterlab
+# Notebooks for Jupyterlab 3.0
 JupyterLab notebook
